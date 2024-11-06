@@ -1,0 +1,54 @@
+{
+	"TEST5678": {
+		"expire": false,
+		"info": "\\C[0]恭喜获得：\\C[20]金币 * 1000，药水 * 10，短刀 * 1，亚麻服饰 * 1",
+		"gifts": [
+			{
+				"id": 0,
+				"type": "gold",
+				"number": 1000
+			},
+			{
+				"id": 7,
+				"type": "item",
+				"number": 10
+			},
+			{
+				"id": 1,
+				"type": "weapon",
+				"number": 1
+			},
+			{
+				"id": 2,
+				"type": "armor",
+				"number": 1
+			}
+		]
+	},
+	"824FDBC9": {
+		"expire": true,
+		"info": "\\C[0]恭喜获得：\\C[20]金币 * 200，超级药水 * 5，长刀 * 1，皮革背心 * 1",
+		"gifts": [
+			{
+				"id": 0,
+				"type": "gold",
+				"number": 200
+			},
+			{
+				"id": 8,
+				"type": "item",
+				"number": 5
+			},
+			{
+				"id": 2,
+				"type": "weapon",
+				"number": 1
+			},
+			{
+				"id": 3,
+				"type": "armor",
+				"number": 1
+			}
+		]
+	}
+}
